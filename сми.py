@@ -1,0 +1,1 @@
+print(*[i for i in input() if i.isalpa==1], sep='')
